@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Farmer-Joe but thats only because @FarmerJoe and @Farmer_Joe were taken
-- 👀 I’m interested in 
+- 👀 I’m interested in coding :), but just a beginner
 - 🌱 I’m currently learning html + css + javascript on Yaakov Chaikin's Coursera course
 - 💞️ I’m looking to collaborate on u give me money ill take it.
 
